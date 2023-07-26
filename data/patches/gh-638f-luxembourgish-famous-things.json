@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Luxembourgish Famous Things",
+	"description": "In this image you can see the famous Red Bridge of Luxembourg, the Luxembourgish Mustard and the famous Luxembourgish Kachkéis.\n\nThis was created by the r/placeluxembourg community.",
+	"links": {
+		"subreddit": [
+			"placeluxembourg"
+		]
+	},
+	"path": {
+		"210-254": [
+			[
+				1000,
+				-644
+			],
+			[
+				1032,
+				-644
+			],
+			[
+				1032,
+				-610
+			],
+			[
+				1000,
+				-610
+			]
+		]
+	},
+	"center": {
+		"210-254": [
+			1016,
+			-627
+		]
+	}
+}
